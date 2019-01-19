@@ -1,3 +1,1 @@
-# Fitsky
-
 My portfolio website
